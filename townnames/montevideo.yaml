@@ -4,6 +4,6 @@ mainset:
 - names:
   - name: Montevideo
     probability: 1
-name: Ciudades de Uruguay
+name: Montevideo
 source: null
 subsets: []
