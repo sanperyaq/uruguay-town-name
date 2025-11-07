@@ -1,0 +1,67 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Montevideo
+    probability: 1
+  - name: Salto
+    probability: 2
+  - name: Ciudad de la Costa
+    probability: 3
+  - name: Paysandú
+    probability: 4
+  - name: Maldonado
+    probability: 5
+  - name: Rivera
+    probability: 6
+  - name: Las Piedras
+    probability: 7
+  - name: Tacuarembó
+    probability: 8
+  - name: Melo
+    probability: 9
+  - name: Artigas
+    probability: 10
+  - name: Mercedes
+    probability: 11
+  - name: Minas
+    probability: 12
+  - name: San José de Mayo
+    probability: 13
+  - name: Durazno
+    probability: 14
+  - name: Florida
+    probability: 15
+  - name: Treinta y Tres
+    probability: 16
+  - name: Barros Blancos
+    probability: 17
+  - name: Ciudad del Plata
+    probability: 18
+  - name: San Carlos
+    probability: 19
+  - name: Colonia del Sacramento
+    probability: 20
+  - name: Pando
+    probability: 21
+  - name: Rocha
+    probability: 22
+  - name: Fray Bentos
+    probability: 23
+  - name: Salinas
+    probability: 24
+  - name: Trinidad
+    probability: 25
+  - name: 18 de Mayo
+    probability: 26
+  - name: La Paz
+    probability: 27
+  - name: Canelones
+    probability: 28
+  - name: Dolores
+    probability: 29
+  - name: Carmelo
+    probability: 30
+name: Ciudades de Uruguay
+source: null
+subsets: []
